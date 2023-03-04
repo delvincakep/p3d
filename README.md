@@ -17,3 +17,9 @@ You'll also learn how to:
 
 ## Stay up to date with new projects
 New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmastery.pro
+
+## Credits
+https://www.youtube.com/watch?v=0fYi8SGA20k
+
+## Gist
+https://gist.github.com/adrianhajdin/b1d33c262941a7e21aad833a1cfc84b1
